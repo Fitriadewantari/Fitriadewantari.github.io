@@ -26,7 +26,7 @@
 
     nav>ul>li:hover {
       background: white;
-      color: black;
+      color: red;
     }
 
     .card {
